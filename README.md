@@ -1,2 +1,2 @@
 # Apps
-Apps built with cordova cross-platform
+Applications built with cordova cross-platform
